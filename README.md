@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2FFTBTB)
+
 # From the Block to Blockchain
 
 **FTBTB** is the canonical research, narrative, and provenance repository for *From the Block to Blockchain* by Major Dream Williams.
